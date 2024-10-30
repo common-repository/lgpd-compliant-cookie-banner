@@ -1,0 +1,87 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wibson | GDPR, LGPD and CCPA/CPRA Cookie Consent\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-17 18:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2\n"
+"X-Domain: wibson-plugin"
+
+#: admin/partials/wibson-plugin-admin-display.php:22
+msgid ""
+"Create your\n"
+"                        account and select your plan to get integration code "
+"using this"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wibson.io"
+msgstr ""
+
+#: admin/partials/wibson-plugin-admin-display.php:57
+msgid "Paste integration code here."
+msgstr ""
+
+#: admin/partials/wibson-plugin-admin-display.php:50
+msgid ""
+"Paste the integration code and press save button to final activation of "
+"plugin."
+msgstr ""
+
+#: admin/partials/wibson-plugin-admin-display.php:96
+msgid "Reset config"
+msgstr ""
+
+#: admin/partials/wibson-plugin-admin-display.php:10
+msgid "Settings saved."
+msgstr ""
+
+#: admin/partials/wibson-plugin-admin-display.php:84
+msgid "Site ID :"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Start your compliance path on your website, and in 5 minutes, make it a "
+"great example of how to handle privacy."
+msgstr ""
+
+#: admin/partials/wibson-plugin-admin-display.php:22
+msgid "STEP 1:"
+msgstr ""
+
+#: admin/partials/wibson-plugin-admin-display.php:35
+msgid "STEP 2:"
+msgstr ""
+
+#: admin/partials/wibson-plugin-admin-display.php:50
+msgid "STEP 3:"
+msgstr ""
+
+#: admin/partials/wibson-plugin-admin-display.php:35
+msgid ""
+"Wait for it\n"
+"                        to generate the integration code and copy it."
+msgstr ""
+
+#. Author of the plugin
+msgid "Wibson"
+msgstr ""
+
+#: admin/partials/wibson-plugin-admin-display.php:3
+msgid "Wibson - GDPR, LGPD and CCPA/CPRA Cookie Consent"
+msgstr ""
+
+#. Name of the plugin
+msgid "Wibson | GDPR, LGPD and CCPA/CPRA Cookie Consent"
+msgstr ""

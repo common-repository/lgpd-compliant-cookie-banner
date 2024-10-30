@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wibson | GDPR, LGPD and CCPA/CPRA Cookie Consent\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-17 18:15+0000\n"
+"PO-Revision-Date: 2022-03-17 18:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español de Chile\n"
+"Language: es_CL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2\n"
+"X-Domain: wibson-plugin"
+
+#: admin/partials/wibson-plugin-admin-display.php:22
+msgid ""
+"Create your\n"
+"                        account and select your plan to get integration code "
+"using this"
+msgstr ""
+"Cree su cuenta y seleccione su plan para obtener el código de integración "
+"usando este\n"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wibson.io"
+msgstr "https://wibson.io"
+
+#: admin/partials/wibson-plugin-admin-display.php:57
+msgid "Paste integration code here."
+msgstr ""
+"Pegue el código de integración aquí.\n"
+
+#: admin/partials/wibson-plugin-admin-display.php:50
+msgid ""
+"Paste the integration code and press save button to final activation of "
+"plugin."
+msgstr ""
+"Pegue el código de integración y presione el botón guardar para la "
+"activación final del complemento.\n"
+
+#: admin/partials/wibson-plugin-admin-display.php:96
+msgid "Reset config"
+msgstr ""
+"Restablecer configuración\n"
+
+#: admin/partials/wibson-plugin-admin-display.php:10
+msgid "Settings saved."
+msgstr ""
+"Ajustes guardados.\n"
+
+#: admin/partials/wibson-plugin-admin-display.php:84
+msgid "Site ID :"
+msgstr ""
+"Sitio ID\n"
+"\n"
+
+#. Description of the plugin
+msgid ""
+"Start your compliance path on your website, and in 5 minutes, make it a "
+"great example of how to handle privacy."
+msgstr ""
+"Comience a cumplir con las regulaciones en su sitio web y, en 5 minutos, "
+"conviértalo en un excelente ejemplo de cómo manejar la privacidad.\n"
+
+#: admin/partials/wibson-plugin-admin-display.php:22
+msgid "STEP 1:"
+msgstr ""
+"PASO 1:\n"
+
+#: admin/partials/wibson-plugin-admin-display.php:35
+msgid "STEP 2:"
+msgstr ""
+"PASO 2:\n"
+
+#: admin/partials/wibson-plugin-admin-display.php:50
+msgid "STEP 3:"
+msgstr ""
+"PASO 2:\n"
+
+#: admin/partials/wibson-plugin-admin-display.php:35
+msgid ""
+"Wait for it\n"
+"                        to generate the integration code and copy it."
+msgstr ""
+"Espere a que se genere el código de integración y cópielo.\n"
+
+#. Author of the plugin
+msgid "Wibson"
+msgstr "Wibson"
+
+#: admin/partials/wibson-plugin-admin-display.php:3
+msgid "Wibson - GDPR, LGPD and CCPA/CPRA Cookie Consent"
+msgstr ""
+"Wibson - GDPR, LGPD and CCPA/CPRA Consentimiento de Cookies\n"
+
+#. Name of the plugin
+msgid "Wibson | GDPR, LGPD and CCPA/CPRA Cookie Consent"
+msgstr ""
+"Wibson | GDPR, LGPD and CCPA/CPRA Consentimiento de Cookies\n"
